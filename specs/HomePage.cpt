@@ -1,0 +1,13 @@
+Created by SEHER on 15.06.2021
+
+This is a concept file with following syntax for each concept.
+# Lokasyon ve cerezleri kabul et
+*"3" saniye bekle
+*"com.android.packageinstaller:id/permission_allow_button" elementine tıkla
+*"3" saniye bekle
+*"com.turkishairlines.mobile:id/frPrivacy_btnAccept" elementine tıkla
+*"3" saniye bekle
+
+#Bilet al butonuna tıklanır
+*"com.turkishairlines.mobile:id/acMain_btnBooking" elementine tıkla
+*"1" saniye bekle

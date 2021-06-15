@@ -1,0 +1,13 @@
+Created by SEHER on 15.06.2021
+
+This is a concept file with following syntax for each concept.
+Uçuşların listelendiği kontrol edilir kısmı sonra
+
+# Ekonomik uçuş seçilir
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ImageView" xpathli elemente tıkla
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup" xpathli elemente tıkla
+*"3" saniye bekle
+
+#Devam butonuna tıklanır
+*"com.turkishairlines.mobile:id/frFlightSearch_btnContinue" elementine tıkla
+*"3" saniye bekle

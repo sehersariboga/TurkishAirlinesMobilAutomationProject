@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"THY MOBILE TEST AUTOMATION":["specs/example.html"]}};
